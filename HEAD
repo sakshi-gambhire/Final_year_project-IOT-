@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 0954e24bbea69bd1efa9c9452073c92ff953e05d Tanmay Tambat <tanmaytambat01@gmail.com> 1759082872 +0530	commit (initial): init and add temperature sensor
+0954e24bbea69bd1efa9c9452073c92ff953e05d 03c1a930ff34b6859cc0badb59dca8a1a1a55f79 Tanmay Tambat <tanmaytambat01@gmail.com> 1759086019 +0530	commit: add color and tds sensor and modified with interfaces for each sensor
